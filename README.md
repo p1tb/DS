@@ -3,6 +3,8 @@ So, the tree is a collection of nodes with edges that connect them. The nodes ar
  
 There's also a __subtree__, which is a tree in itself under the root node. 
 
+<a href="https://www.youtube.com/watch?v=rRH-zvM3FAI" rel="Video Tutorial">![Foo](https://i.imgur.com/ajT3XjI.jpg)</a>
+
 In BST, each node is greater than every node in its left subtree. And each node is less than every node in its right subtree. Adding is always started from the root node and we're always gonna add a node as a leaf one.
 
 __It's all a theory part.__
